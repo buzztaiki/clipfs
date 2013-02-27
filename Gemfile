@@ -6,4 +6,5 @@ gem "rfusefs"
 
 group :development do
   gem "pry"
+  gem "rake"
 end
