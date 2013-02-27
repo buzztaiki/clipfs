@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'clipfs'
+ClipFS::Cli.new.main(ARGV)
